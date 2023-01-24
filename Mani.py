@@ -9,5 +9,5 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     import M1
 elif bit == '32bit':
-    import M1
+    import M2
  
